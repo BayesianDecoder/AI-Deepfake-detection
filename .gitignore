@@ -1,0 +1,13 @@
+.venv/
+venv/
+venv_tf213/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.onnx
+*.pt
+.DS_Store
+.vscode/
+
